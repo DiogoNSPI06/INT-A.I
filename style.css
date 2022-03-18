@@ -1,0 +1,46 @@
+body {
+  background-color: #2C2F33;
+  text-align: center;
+  vertical-align: center;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 25vh
+}
+.button {
+  color: grey;
+  border: currentColor;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 15vh
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+textarea {
+  background-color: #2f3136;
+  border: 1px solid #000;
+  color: #99aab5;
+  padding: 8px;
+  font-family: courier new;
+  position: center;
+}
