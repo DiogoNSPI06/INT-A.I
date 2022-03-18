@@ -113,6 +113,9 @@ function Walk(value) {
       field = "Você ganhou o jogo!" 
     }
   }
+  if(place > 13) {
+    document.location.reload()
+  }
     
   this.getField = function() {
     return field.toString();
@@ -125,6 +128,7 @@ function Walk(value) {
   return field.toString()
 }
 
+//Obtendo os IDs dos botões
 document.getElementById('Mova_1').addEventListener("click", mov1)
 document.getElementById('Mova_2').addEventListener("click", mov2)
 document.getElementById('github').addEventListener("click", redirect)
