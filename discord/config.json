@@ -1,0 +1,53 @@
+
+{
+  "def": {
+    "prefix": "n!",
+    "color": "#008ddc"
+  },
+  "URL": {
+    "website": "https://www.hypeds.com/",
+    "discord": "https://www.hypeds.com/discord",
+    "github": "",
+    "statusPage": "https://stats.uptimerobot.com/1BnoXi6Mgp",
+    "addBot": "https://www.hypeds.com/addbot"
+  },
+  "client": {
+    "owner": {
+      "name": "! Diogo06🐾#1337",
+      "id": "941327483310080102"
+    }
+  },
+  "owner": {
+    "name": "! Diogo06🐾#1337",
+    "id": "732549418829611098",
+    "color": "#ce3700"
+  },
+  "reply": {
+    "noperm": "❌ | Você não tem a permissão necessária!",
+    "modIsOff": "❌ | O módulo está desativado!",
+    "noMsg": "❌ | Escreva uma mensagem!",
+    "menoperm": "❌ | Eu não tenho as permissões necessárias!",
+    "invRequest": "❌ | Você está realizando muitas requests. Favor aguardar 30 min para executar este comando novamente!",
+    "simsimi": "❌ | Eu não sei a resposta. Por favor me encine!"
+  },
+  "error": {
+    "HPD_400": "❌ | Estou tendo dificuldades para fazer a Request! \n \n > Código de Erro: `HPD 400`",
+    "HPD_401": "❌ | Time out de API! \n \n > Código de Erro: `HPD 401`",
+    "HPD_402": "❌ | Too many requests. \n \n > Código de Erro: `HPD 402`",
+    "HPD_500": "❌ | Acesso negado! \n \n > Código de Erro: `HPD 500`",
+    "HPD_501": "❌ | Código expirado! \n \n > Código de Erro: `HPD 501`",
+    "HPD_502": "❌ | TOKEN inválido! \n \n > Código de Erro: `HPD 502`",  
+    "HPD_503": "❌ | Não consegui deletar algumas mensagens por serem muito antigas! \n \n > Código de Erro: `HPD 503`",
+    "HPD_504": "❌ | Não consegui editar as perms do canal! \n \n > Código de Erro: `HPD 504`",
+    "IMG_600": "❌ | Não consegui criar a imagem. \n \n > Código de Erro: `IMG 600`",
+    "IMG_601": "❌ | Image server error. \n \n > Código de Erro: `IMG 601`",
+    "IMG_602": "❌ | A imagem não carrega. \n \n > Código de Erro: `IMG 602`",
+    "IMG_603": "❌ | Não consegui obter a URL da imagem. \n \n > Código de Erro: `IMG 603`",
+    "IMG_604": "❌ | Erro ao realizar a request da imagem. \n \n > Código de Erro: `IMG 604`"
+  },
+  "footer": {
+    "hgc": "© HypedGroupCode",
+    "hpd": "© H Y P E D",
+    "owner": "Código de ! Diogo06🐾#1337"
+  }
+}

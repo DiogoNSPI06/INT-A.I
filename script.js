@@ -130,7 +130,7 @@ document.getElementById('Mova_2').addEventListener("click", mov2)
 document.getElementById('github').addEventListener("click", redirect)
 
 function redirect() {
-  window.location.replace("");
+  window.location.replace("https://github.com/DiogoNSPI06/INT-A.I");
 }
 
 //Botões e textbox
