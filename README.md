@@ -10,4 +10,4 @@ Apertando `Mova 1` ou `Mova 2` é possível andar 1 casa ou 2 casas. E instantâ
 ----
 ### Créditos: Diogo Spigato; 1° DR;
 
-Volte para o site do jogo: [Clique Aqui](https://int-ai.diogonunes2.repl.co)
+Volte para o site do jogo: [Clique Aqui](https://aigame.hypeds.com/)
